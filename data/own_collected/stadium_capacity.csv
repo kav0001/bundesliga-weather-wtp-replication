@@ -1,0 +1,83 @@
+Stadium,capacity,club,notes,capacity_pre_renovation,renovation_year
+SIGNAL IDUNA PARK,81365,Borussia Dortmund,
+Allianz Arena,75024,Bayern München,current; was 69901 pre-2023 expansion
+Olympiastadion Berlin,74475,Hertha BSC,
+Parkstadion,70000,Schalke 04,old stadium demolished 2005
+Olympiastadion München,69250,Bayern München,used until 2005
+Veltins-Arena,62271,Schalke 04,
+MHPArena Stuttgart,60449,VfB Stuttgart,
+ESPRIT arena,54600,Fortuna Düsseldorf,now Merkur Spiel-Arena
+Deutsche Bank Park,58000,Eintracht Frankfurt,also known as Commerzbank Arena
+Commerzbank Arena,58000,Eintracht Frankfurt,same stadium as Deutsche Bank Park
+Volksparkstadion,57274,Hamburger SV,
+Stadion im Borussia-Park,54022,Borussia Mönchengladbach,
+RheinEnergieSTADION,50000,1. FC Köln,
+Max-Morlock-Stadion,50000,1. FC Nürnberg,
+Fritz-Walter-Stadion,49327,1. FC Kaiserslautern,updated from 49780 (old value)
+Heinz-von-Heiden-Arena,49000,Hannover 96,corrected from 26370
+Red Bull Arena,47069,RB Leipzig,
+Weserstadion,42100,Werder Bremen,
+Wohninvest-Weserstadion,42100,Werder Bremen,same stadium as Weserstadion
+Europa-Park Stadion,34700,SC Freiburg,
+Bökelberg,34500,Borussia Mönchengladbach,old stadium demolished 2004
+BBBank Wildpark,34302,Karlsruher SC,
+Mewa Arena,33305,1. FSV Mainz 05,
+Tivoli,32960,Alemannia Aachen,new stadium
+Rudolf-Harbig-Stadion,32066,Dynamo Dresden,
+MSV-Arena,31500,MSV Duisburg,
+Avnet-Arena,30098,1. FC Magdeburg,corrected club from Kaiserslautern
+WWK ARENA,30660,FC Augsburg,
+Volkswagen Arena,30000,VfL Wolfsburg,current 26373; 30000 during most of sample
+BayArena,30210,Bayer Leverkusen,
+PreZero Arena,30150,TSG Hoffenheim,
+Millerntor-Stadion,29546,FC St. Pauli,
+Ostseestadion,29000,Hansa Rostock,
+Vonovia Ruhrstadion,27300,VfL Bochum,,32000,2010
+Rosenaustadion,26443,FC Augsburg,corrected from SC Freiburg (wrong club)
+SchücoArena,26515,DSC Arminia Bielefeld,
+Dreisamstadion,24000,SC Freiburg,old stadium
+Donaustadion,22850,SSV Ulm,
+LEAG Energie Stadion,22528,FC Energie Cottbus,
+Stadion An der Alten Försterei,22012,1. FC Union Berlin,
+Tivoli (alt),21600,Alemannia Aachen,old stadium
+Stadion am Bruchweg,20300,1. FSV Mainz 05,old stadium
+Stadion am Bieberer Berg,20500,Kickers Offenbach,corrected from 10500
+Karl-Liebknecht-Stadion,10500,SV Babelsberg 03,
+Carl-Benz-Stadion,25721,SV Waldhof Mannheim,corrected from 25054
+Leimbachstadion,18500,Sportfreunde Siegen,club added
+VfL-Stadion am Elsterweg,17600,VfL Wolfsburg,old stadium pre-Volkswagen Arena,21000,2002
+Merck-Stadion am Böllenfalltor,17000,SV Darmstadt 98,
+Sportpark Ronhof | Thomas Sommer,16626,SpVgg Greuther Fürth,
+Ludwigsparkstadion,16003,1. FC Saarbrücken,corrected from 33000 (post-renovation),35000,2020
+Bremer Brücke,16068,VfL Osnabrück,,20800,2009
+Stadion am Alsenweg,15200,SV Waldhof Mannheim,corrected from FC Ahlen
+Jahnstadion Regensburg,15210,SSV Jahn Regensburg,
+Jahnstadion,15210,SSV Jahn Regensburg,same stadium
+Holstein-Stadion,15034,Holstein Kiel,
+Stadion am Hardtwald,15300,SV Sandhausen,
+Home Deluxe Arena,15000,SC Paderborn 07,
+Uhlsport Park,15000,1. FC Heidenheim,
+Voith-Arena,15000,1. FC Heidenheim,same stadium as Uhlsport Park
+Audi Sportpark,15000,FC Ingolstadt 04,
+Moselstadion,15000,Eintracht Trier,
+ad hoc Arena im Ernst-Abbe-Sportfeld,15000,FC Carl Zeiss Jena,
+Riedel Bau Arena im Sachs-Stadion,15000,FC Schweinfurt 05,
+Stadion - An der Gellertstraße,15000,Chemnitzer FC,
+Hermann-Löns-Stadion,12000,SC Paderborn 07,old stadium; corrected from Hannover 96
+Städtisches Stadion an der Grünwalder Straße,12500,TSV 1860 München,,38500,2006
+GAZi-Stadion auf der Waldau,12200,Stuttgarter Kickers,
+Stadion Niederrhein,12900,Rot-Weiß Oberhausen,
+BRITA Arena,12746,SV Wehen Wiesbaden,
+EINTRACHT-Stadion,23325,Eintracht Braunschweig,
+Stadion an der Kreuzeiche,25000,SSV Reutlingen,
+Stadion an der Lohmühle,25000,VfB Lübeck,
+eins Erzgebirgsstadion,25000,FC Erzgebirge Aue,
+AKON ARENA,13090,Würzburger Kickers,club added
+CENTUS Arena,11088,VfR Aalen,club added
+Wersestadion,11000,FC Ahlen,
+Ursapharm-Arena an der Kaiserlinde,10000,SV Elversberg,corrected from 1. FC Saarbrücken
+Wacker-Arena,10000,Wacker Burghausen,corrected from 8000
+Tuja-Stadion,11400,FC Ingolstadt 04,corrected club from Fortuna Düsseldorf
+Stadion der Freundschaft,8473,1. FC Frankfurt (Oder),Frankfurt/Oder — kept as separate entry (different city from Cottbus)
+Stadion Oberwerth,8000,TuS Koblenz,,15000,2011
+Dietmar-Hopp-Stadion,5900,TSG Hoffenheim,old stadium pre-PreZero Arena
